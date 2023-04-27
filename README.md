@@ -7,3 +7,9 @@ The map will guide people to a different route and
 also allows people to see how close or far they are to the events being pasted. 
 
 ## Important Features 
+
+The map will show your sourounding area
+
+The map will direct the user around the commotions
+
+
